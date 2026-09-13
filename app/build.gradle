@@ -1,14 +1,14 @@
 apply plugin: 'com.android.library'
 apply plugin: 'com.github.dcendents.android-maven'
-group = 'com.github.KwabenBerko'
+group = 'com.saulhdev.owmandroidlib'
 
 
 android {
-    compileSdkVersion 29
+    compileSdkVersion 37
 
     defaultConfig {
         minSdkVersion 15
-        targetSdkVersion 29
+        targetSdkVersion 37
         versionCode 1
         versionName "1.0"
 
