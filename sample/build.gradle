@@ -7,7 +7,7 @@ android {
     defaultConfig {
         applicationId "com.kwabenaberko.openweathermap"
         minSdkVersion 23
-        targetSdkVersion 35
+        targetSdkVersion 37
         versionCode 1
         versionName "1.0"
         testInstrumentationRunner "androidx.test.runner.AndroidJUnitRunner"
